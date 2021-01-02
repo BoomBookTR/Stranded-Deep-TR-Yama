@@ -1,7 +1,7 @@
 # Stranded-Deep-TR-Yama
 Tolga KÜTÜKÇÜ yamasının son sürüme uyarlanmış halidir.
 
-![TR Yama v0.70.00 Üstü](https://raw.githubusercontent.com/BoomBookTR/Stranded-Deep-TR-Yama/main/TR%20Dil%20Paketi%20v0.70.00%2B.jpeg)
+![TR Yama v0.70.00 Üstü](https://raw.githubusercontent.com/BoomBookTR/Stranded-Deep-TR-Yama/main/img/TR%20Dil%20Paketi%20v0.70.00%2B.jpeg)
 
 
 
