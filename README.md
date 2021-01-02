@@ -1,6 +1,10 @@
 # Stranded-Deep-TR-Yama
 Tolga KÜTÜKÇÜ yamasının son sürüme uyarlanmış halidir.
 
+![TR Yama v0.70.00 Üstü](https://raw.githubusercontent.com/BoomBookTR/Stranded-Deep-TR-Yama/main/TR%20Dil%20Paketi%20v0.70.00%2B.jpeg)
+
+
+
 KURULUM DETAYLARI:
 
 1- Epic Kullanıcıları %USERPROFILE%\AppData\LocalLow\Beam Team Games\Stranded Deep\Data;
