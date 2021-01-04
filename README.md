@@ -7,8 +7,7 @@ Tolga KÜTÜKÇÜ yamasının son sürüme uyarlanmış halidir.
 
 KURULUM DETAYLARI:
 
-1- Epic Kullanıcıları %USERPROFILE%\AppData\LocalLow\Beam Team Games\Stranded Deep\Data;
-Steam kullanıcıları ise %USERPROFILE%\Documents\Stranded Deep\Data yoluna giderek .csv dosyasını klasöre kaydedin.
+1- %USERPROFILE%\AppData\LocalLow\Beam Team Games\Stranded Deep\Data yoluna giderek .csv dosyasını klasöre kaydedin.
 
 2- Aynı klasörde bulunan Options.json dosyasını Notepad++ ile açıp CTRL+F ile "LangPath" tırnak içerisinde bulunna kodu aratın. Bulunan kod satırında "LangPath": "en-DEFAULT", olacaktır.
 
